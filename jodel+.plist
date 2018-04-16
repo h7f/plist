@@ -11,19 +11,19 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://cdn.appvalley.vip/ipa/84.com.toyopagroup.picabo--.ipa</string>
+						<string>https://cdn.appvalley.vip/83.com.go-tellm.tellm.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.toyopagroup.picabo--</string>
+					<string>com.go-tellm.tellm</string>
 					<key>bundle-version</key>
-					<string>3.95</string>
-					<key>kind</key> 
+					<string>3.98</string>
+					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>Jodel++</string>
+					<string><![CDATA[Jodel++]]></string>
 				</dict>
 			</dict>
 		</array>
